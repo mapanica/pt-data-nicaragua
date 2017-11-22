@@ -37,22 +37,6 @@
                     [
                         "11:45",
                         "14:15"
-                    ],
-                    [
-                        "13:45",
-                        "16:15"
-                    ],
-                    [
-                        "14:45",
-                        "17:15"
-                    ],
-                    [
-                        "15:45",
-                        "18:15"
-                    ],
-                    [
-                        "17:45",
-                        "20:15"
                     ]
                 ],
                 "to": "COTRAN Sur"
@@ -69,6 +53,36 @@
                 ],
                 "times": [
                     [
+                        "13:15",
+                        "15:45"
+                    ],
+                    [
+                        "15:15",
+                        "17:45"
+                    ],
+                    [
+                        "13:45",
+                        "16:15"
+                    ],
+                    [
+                        "15:45",
+                        "18:15"
+                    ]
+                ],
+                "to": "COTRAN Sur"
+            },
+            {
+                "exeptions": [],
+                "from": "Terminal de Buses Rigoberto Cabezas",
+                "services": [
+                    "Mo-Su"
+                ],
+                "stations": [
+                    "Terminal de Buses Rigoberto Cabezas",
+                    "COTRAN Norte"
+                ],
+                "times": [
+                    [
                         "12:20",
                         "14:50"
                     ],
@@ -77,15 +91,15 @@
                         "16:50"
                     ],
                     [
-                        "13:15",
-                        "15:45"
+                        "14:45",
+                        "17:15"
                     ],
                     [
-                        "15:15",
-                        "17:45"
+                        "17:45",
+                        "20:15"
                     ]
                 ],
-                "to": "COTRAN Sur"
+                "to": "COTRAN Norte"
             },
             {
                 "exeptions": [],
@@ -137,6 +151,36 @@
                     [
                         "15:15",
                         "17:45"
+                    ]
+                ],
+                "to": "Terminal de Buses Rigoberto Cabezas"
+            },
+            {
+                "exeptions": [],
+                "from": "COTRAN Norte",
+                "services": [
+                    "Mo-Su"
+                ],
+                "stations": [
+                    "COTRAN Norte",
+                    "Terminal de Buses Rigoberto Cabezas"
+                ],
+                "times": [
+                    [
+                        "05:15",
+                        "07:45"
+                    ],
+                    [
+                        "06:15",
+                        "08:45"
+                    ],
+                    [
+                        "07:45",
+                        "10:15"
+                    ],
+                    [
+                        "11:15",
+                        "13:45"
                     ]
                 ],
                 "to": "Terminal de Buses Rigoberto Cabezas"
@@ -408,5 +452,5 @@
         ]
     },
     "start_date": "2017-11-18",
-    "updated": "2017-11-18"
+    "updated": "2017-11-22"
 }
