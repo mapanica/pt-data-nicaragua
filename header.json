@@ -1,0 +1,6 @@
+{
+    "start_date": "2017-11-18",
+    "end_date": "2017-12-18",
+    "excluded_lines": [],
+    "included_lines": [	"R-MAN-EST", "E-MAN-EST" ]
+}
