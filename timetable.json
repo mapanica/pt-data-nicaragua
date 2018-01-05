@@ -9,12 +9,12 @@
         "E-MAN-EST": [
             {
                 "exeptions": [],
-                "from": "Terminal de Buses Rigoberto Cabezas",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Mo-Su"
                 ],
                 "stations": [
-                    "Terminal de Buses Rigoberto Cabezas",
+                    "Mercado Mayoreo",
                     "COTRAN Sur"
                 ],
                 "times": [
@@ -43,12 +43,12 @@
             },
             {
                 "exeptions": [],
-                "from": "Terminal de Buses Rigoberto Cabezas",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Mo-Su"
                 ],
                 "stations": [
-                    "Terminal de Buses Rigoberto Cabezas",
+                    "Mercado Mayoreo",
                     "COTRAN Sur"
                 ],
                 "times": [
@@ -73,12 +73,12 @@
             },
             {
                 "exeptions": [],
-                "from": "Terminal de Buses Rigoberto Cabezas",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Mo-Su"
                 ],
                 "stations": [
-                    "Terminal de Buses Rigoberto Cabezas",
+                    "Mercado Mayoreo",
                     "COTRAN Norte"
                 ],
                 "times": [
@@ -109,7 +109,7 @@
                 ],
                 "stations": [
                     "COTRAN Sur",
-                    "Terminal de Buses Rigoberto Cabezas"
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -153,7 +153,7 @@
                         "17:45"
                     ]
                 ],
-                "to": "Terminal de Buses Rigoberto Cabezas"
+                "to": "Mercado Mayoreo"
             },
             {
                 "exeptions": [],
@@ -163,7 +163,7 @@
                 ],
                 "stations": [
                     "COTRAN Norte",
-                    "Terminal de Buses Rigoberto Cabezas"
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -183,18 +183,18 @@
                         "13:45"
                     ]
                 ],
-                "to": "Terminal de Buses Rigoberto Cabezas"
+                "to": "Mercado Mayoreo"
             }
         ],
         "R-MAN-EST": [
             {
                 "exeptions": [],
-                "from": "Terminal de Buses Rigoberto Cabezas",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Mo-Su"
                 ],
                 "stations": [
-                    "Terminal de Buses Rigoberto Cabezas",
+                    "Mercado Mayoreo",
                     "COTRAN Sur"
                 ],
                 "times": [
@@ -299,12 +299,12 @@
             },
             {
                 "exeptions": [],
-                "from": "Terminal de Buses Rigoberto Cabezas",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Mo-Su"
                 ],
                 "stations": [
-                    "Terminal de Buses Rigoberto Cabezas",
+                    "Mercado Mayoreo",
                     "COTRAN Sur"
                 ],
                 "times": [
@@ -327,7 +327,7 @@
                 ],
                 "stations": [
                     "COTRAN Sur",
-                    "Terminal de Buses Rigoberto Cabezas"
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -447,10 +447,10 @@
                         "21:15"
                     ]
                 ],
-                "to": "Terminal de Buses Rigoberto Cabezas"
+                "to": "Mercado Mayoreo"
             }
         ]
     },
     "start_date": "2017-11-18",
-    "updated": "2017-11-22"
+    "updated": "2018-01-05"
 }
