@@ -1,0 +1,52 @@
+{
+    "start_date": "2018-01-01",
+    "end_date": "2018-12-31",
+    "updated": "2018-02-05"
+    "currency": "NIO",
+    "payment_method": "0",
+    "transfers": "0",
+    "lines": {
+        "E-MAN-EST": [
+            {
+                "services": [
+                    "Mo-Su"
+                ],
+                "general_fare": "88"
+            }
+        ],
+        "R-MAN-EST": [
+            {
+                "from": "COTRAN Sur",
+                "to": "Mercado Mayoreo",
+                "services": [
+                    "Mo-Su"
+                ],
+                "stations": {
+                    "COTRAN Sur": "Esteli",
+                    "El Naranjo": "El Naranjo",
+                    //TODO: add more stations
+                    "Mercado Mayoreo": "Managua"
+                }
+            },
+            {
+                "from": "Mercado Mayoreo",
+                "to": "COTRAN Sur",
+                "services": [
+                    "Mo-Su"
+                ],
+                "stations": {
+                    "Mercado Mayoreo": "Managua",
+                    //TODO: add more stations
+                    "El Naranjo": "El Naranjo",
+                    "Hospital": "Esteli"
+                }
+            }
+        ]
+    },
+    "fares": {
+        "Esteli-Esteli": "5",
+        "Esteli-El Naranjo": "10",
+        "Esteli-Managua": "68",
+        "Managua-Esteli": "68"
+    }
+}
