@@ -285,12 +285,12 @@
             },
             {
                 "exeptions": [],
-                "from": "Empalme Poneloya – Las Peñitas",
+                "from": "Empalme Poneloya - Las Peñitas",
                 "services": [
                     "Mo-Su"
                 ],
                 "stations": [
-                    "Empalme Poneloya – Las Peñitas",
+                    "Empalme Poneloya - Las Peñitas",
                     "Mercadito"
                 ],
                 "times": [
@@ -645,5 +645,5 @@
         ]
     },
     "start_date": "2018-01-01",
-    "updated": "2018-01-08"
+    "updated": "2018-02-14"
 }
