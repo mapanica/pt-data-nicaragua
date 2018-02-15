@@ -488,7 +488,8 @@
                         "21:45"
                     ]
                 ],
-                "to": "COTRAN Sur"
+                "to": "COTRAN Sur",
+                "via": "Ciudad Dario - Sébaco"
             },
             {
                 "exeptions": [],
@@ -510,7 +511,8 @@
                         "18:15"
                     ]
                 ],
-                "to": "COTRAN Sur"
+                "to": "COTRAN Sur",
+                "via": "Ciudad Dario - Sébaco"
             },
             {
                 "exeptions": [],
@@ -640,10 +642,11 @@
                         "21:15"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Mercado Mayoreo",
+                "via": "Sébaco - Ciudad Dario"
             }
         ]
     },
     "start_date": "2018-01-01",
-    "updated": "2018-02-14"
+    "updated": "2018-02-15"
 }
