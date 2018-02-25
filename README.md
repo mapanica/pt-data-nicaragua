@@ -9,6 +9,7 @@ using the [frequencies](frequencies.csv) and some general [header information](h
 As for now, the following routes are included:
 * Managua-Estelí, express and stopping services
 * Leon-Poneloya (Beach)
+* San Jorge - Ometepe (ferry service)
 
 The timetable is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE.md).

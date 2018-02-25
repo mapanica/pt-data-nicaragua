@@ -9,3 +9,7 @@ E-MAN-EST,COTRAN Sur,Mercado Mayoreo,,,Mo-Su 04:45-06:45;Mo-Su 07:15-07:15;Mo-Su
 E-MAN-EST,COTRAN Norte,Mercado Mayoreo,,,Mo-Su 05:15-06:15;Mo-Su 07:45-07:45;Mo-Su 11:15-11:15,,150,,60
 R-LEO-PEN,Mercadito,Empalme Poneloya - Las Peñitas,Poneloya,,Mo-Su 04:35-17:53,,47,,42
 R-LEO-PEN,Empalme Poneloya - Las Peñitas,Mercadito,Las Peñitas,,Mo-Su 05:22-18:40,,47,,42
+F-SJR-MOY,San Jorge,Moyogalpa,,,Mo-Su 07:00|07:45|08:30|10:30|11:00|12:00|12:30|14:30|15:30|16:00|16:30|17:00|17:45,,70,,
+F-SJR-MOY,Moyogalpa,San Jorge,,,Mo-Su 06:00|06:30|07:00|09:00|10:00|11:00|12:30|13:00|15:00|16:00|17:30,,70,,
+F-SJR-SJS,San Jorge,San José del Sur,,,Mo-Su 09:30|14:00|17:00,,70,,
+F-SJR-SJS,San José del Sur,San Jorge,,,Mo-Su 05:45|07:30|15:00,,70,,
