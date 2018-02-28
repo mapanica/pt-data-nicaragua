@@ -187,6 +187,94 @@
                 "to": "Mercado Mayoreo"
             }
         ],
+        "F-SCA-CAS": [
+            {
+                "exeptions": [],
+                "from": "San Carlos",
+                "services": [
+                    "Mo-Su"
+                ],
+                "stations": [
+                    "San Carlos",
+                    "El Castillo"
+                ],
+                "times": [
+                    [
+                        "06:00",
+                        "08:00"
+                    ],
+                    [
+                        "08:00",
+                        "10:00"
+                    ],
+                    [
+                        "10:30",
+                        "12:30"
+                    ],
+                    [
+                        "12:00",
+                        "14:00"
+                    ],
+                    [
+                        "14:30",
+                        "16:30"
+                    ],
+                    [
+                        "15:30",
+                        "17:30"
+                    ],
+                    [
+                        "16:30",
+                        "18:30"
+                    ]
+                ],
+                "to": "El Castillo",
+                "via": "Bocana de Sabalos"
+            },
+            {
+                "exeptions": [],
+                "from": "El Castillo",
+                "services": [
+                    "Mo-Su"
+                ],
+                "stations": [
+                    "El Castillo",
+                    "San Carlos"
+                ],
+                "times": [
+                    [
+                        "05:00",
+                        "07:00"
+                    ],
+                    [
+                        "05:15",
+                        "07:15"
+                    ],
+                    [
+                        "06:00",
+                        "08:00"
+                    ],
+                    [
+                        "07:00",
+                        "09:00"
+                    ],
+                    [
+                        "09:15",
+                        "11:15"
+                    ],
+                    [
+                        "11:00",
+                        "13:00"
+                    ],
+                    [
+                        "14:00",
+                        "16:00"
+                    ]
+                ],
+                "to": "San Carlos",
+                "via": "Bocana de Sabalos"
+            }
+        ],
         "F-SJR-MOY": [
             {
                 "exeptions": [],
@@ -828,5 +916,5 @@
         ]
     },
     "start_date": "2018-01-01",
-    "updated": "2018-02-24"
+    "updated": "2018-02-28"
 }
